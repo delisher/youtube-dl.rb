@@ -1,5 +1,11 @@
 # youtube-dl.rb
 
+## Update to latest youtube-dl bin
+
+```
+rake binaries:latest
+```
+
 Ruby wrapper for [youtube-dl](http://rg3.github.io/youtube-dl/).
 
 [![Build Status](https://travis-ci.org/layer8x/youtube-dl.rb.svg?branch=master)](https://travis-ci.org/layer8x/youtube-dl.rb)
